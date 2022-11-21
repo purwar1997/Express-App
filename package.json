@@ -1,0 +1,15 @@
+{
+  "name": "social-media",
+  "version": "2.0.0",
+  "description": "A social media app created using node.js and express.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Shubham Purwar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
